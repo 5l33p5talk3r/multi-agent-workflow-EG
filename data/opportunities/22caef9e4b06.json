@@ -1,0 +1,15 @@
+{
+  "id": "22caef9e4b06",
+  "niche": "home inventory for small landlords",
+  "audience": "small independent landlords",
+  "problem": "reduce vacancy and maintenance chaos",
+  "demand_score": 78.0,
+  "competition_score": 32.0,
+  "profit_score": 84.0,
+  "evidence": [
+    "Mock evidence: recurring operational pain",
+    "Mock evidence: clear buyer with measurable ROI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T15:46:58.317301+00:00"
+}
