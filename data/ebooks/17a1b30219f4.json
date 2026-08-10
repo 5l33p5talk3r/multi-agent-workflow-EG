@@ -1,0 +1,18 @@
+{
+  "id": "17a1b30219f4",
+  "opportunity_id": "22caef9e4b06",
+  "title": "The Small Landlord Operations Playbook",
+  "subtitle": "A practical system for fewer vacancies and faster maintenance",
+  "description": "A concise, actionable guide for independent landlords.",
+  "chapters": [
+    {"title": "1. Practical system", "content": "Full draft chapter 1 for small independent landlords. Add reviewed, original content here."},
+    {"title": "2. Practical system", "content": "Full draft chapter 2 for small independent landlords. Add reviewed, original content here."},
+    {"title": "3. Practical system", "content": "Full draft chapter 3 for small independent landlords. Add reviewed, original content here."},
+    {"title": "4. Practical system", "content": "Full draft chapter 4 for small independent landlords. Add reviewed, original content here."},
+    {"title": "5. Practical system", "content": "Full draft chapter 5 for small independent landlords. Add reviewed, original content here."},
+    {"title": "6. Practical system", "content": "Full draft chapter 6 for small independent landlords. Add reviewed, original content here."}
+  ],
+  "cover_image_path": null,
+  "price_usd": 19.0,
+  "status": "draft"
+}
